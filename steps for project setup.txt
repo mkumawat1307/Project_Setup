@@ -18,7 +18,8 @@
 16. create .gitignore file in where you created new repository
 17. git pull 
   - fetch and download content from a remote repository and immediately update the local repository to match that conten
-18. creat file 'init_setup.sh' in current folder and put below commands init_setup.sh file
+18. creat requirements.txt for installing packages
+19. creat file 'init_setup.sh' in current folder and put below commands init_setup.sh file
 	echo [$(date)]: "START"
 	echo [$(date)]: "creating env with python 3.8 version"
 	conda create --prefix ./env python=3.8 -y
@@ -27,4 +28,4 @@
 	echo [$(date)]: "installing the dev requirements"
 	pip install -r requirements.txt
 	echo [$(date)]: "END"
-19. init_setup.sh file only works in git bash command prompt for run init_setup.sh file command is "bash init_setup.sh"
+20. init_setup.sh file only works in git bash command prompt for run init_setup.sh file command is "bash init_setup.sh"
