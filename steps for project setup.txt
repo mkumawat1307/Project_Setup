@@ -1,0 +1,10 @@
+1. Create Folder in your system
+2. Now open this folder with vs coad
+3. in current folder creat 'README.md' file
+4. initialize the git
+5. git add bac.txt
+6. git add.(all file add)
+7. git config --global user.email "you@example.com"
+8. git config --global user.name "Your Name"
+9. git commit -m "this is my first commit"
+10. 
