@@ -118,10 +118,7 @@ repository
 21. init_setup.sh file only works in git bash command prompt for run init_setup.sh file command is "bash init_setup.sh"
 ```
 ```
-22. git push -u origin main
-```
-```
-23. in setup.py file put below commands and run 
+22. in setup.py file put below commands and run 
     - python setup.py install
     from setuptools import find_packages,setup
     from typing import List
@@ -149,6 +146,10 @@ repository
     )
 ```
 ```
-24. Another way you can mentain -e . in your requirement file and you can run
+23. Another way you can mentain -e . in your requirement file and you can run
 - pip install -r reuqirement.txt
+```
+
+```
+24. git push -u origin main
 ```
