@@ -62,7 +62,7 @@ repository
     package_name="DimondPricePrediction"
 
     list_of_files=[
-        "github/workflows/.gitkeep",
+        ".github/workflows/.gitkeep",
         f"src/{package_name}/__init__.py",
         f"src/{package_name}/components/__init__.py",
         f"src/{package_name}/components/data_ingestion.py",
