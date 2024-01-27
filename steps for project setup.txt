@@ -1,11 +1,20 @@
-1. Create Folder in your system
-2. Now open this folder with vs coad
-3. in current folder creat 'README.md' file
-4. initialize the git
-5. git config --global user.email "you@example.com"
-6. git config --global user.name "Your Name"
-7. git add bac.txt
-8. git add.(all file add)
-9. git commit -m "this is my first commit"
-10. git pull - fetch and download content from a remote repository and immediately update the local repository to match that conten
-11. creat file 'init_setup.sh'
+1. Open Git Bash App and connect github by using below commands
+2. git config --global user.email "you@example.com"
+3. git config --global user.name "Your Name"
+4. Create a Folder for project in your system 
+5. Now open this folder with vs coad
+6. Creating a new repository in github account
+7. initialize the git
+8. in current folder creat 'README.md' file
+9. git add abc.txt
+8. git add.
+	- all file add
+9. git status
+10. git commit -m "this is my first commit"
+11. Copy your remote repository's URL from GitHub
+   - The HTTPS or URL is copied from the given GitHub account, which is the place of the remote repository.
+12. git remote add origin 'your_url_name'
+13. git push -u origin main
+14. git pull 
+  - fetch and download content from a remote repository and immediately update the local repository to match that conten
+15. creat file 'init_setup.sh' in current folder
