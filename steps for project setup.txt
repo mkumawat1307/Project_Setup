@@ -7,4 +7,5 @@
 7. git add bac.txt
 8. git add.(all file add)
 9. git commit -m "this is my first commit"
-10. 
+10. git pull - fetch and download content from a remote repository and immediately update the local repository to match that conten
+11. creat file 'init_setup.sh'
