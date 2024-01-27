@@ -6,16 +6,16 @@
 6. Creating a new repository in github account
 7. git init
 8. in current folder creat 'README.md' file
-9. create .gitignore file in where you created new repository
 9. git add abc.txt
-8. git add .
+10. git add .
 	- for all file add
-9. git status
-10. git commit -m "this is my first commit"
-11. Copy your remote repository's URL from GitHub
+11. git status
+12. git commit -m "this is my first commit"
+13. Copy your remote repository's URL from GitHub
    - The HTTPS or URL is copied from the given GitHub account, which is the place of the remote repository.
-12. git remote add origin 'your_url_name'
-13. git push -u origin main
-14. git pull 
+14. git remote add origin 'your_url_name'
+15. git push -u origin main
+16. create .gitignore file in where you created new repository
+17. git pull 
   - fetch and download content from a remote repository and immediately update the local repository to match that conten
-15. creat file 'init_setup.sh' in current folder
+18. creat file 'init_setup.sh' in current folder
