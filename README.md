@@ -1,4 +1,4 @@
-# This is my end to end Project
+# This is my end to end Project setup
 ```
 1. Connect with github account by using below commands
 ```
