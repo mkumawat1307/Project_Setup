@@ -17,8 +17,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='DimondPricePrediction',
     version='0.0.1',
-    author='sunny savita',
-    author_email='sunny.savita@ineuron.ai',
+    author='Manish Kumawat',
+    author_email='mkumawat1307@gmail.com',
     install_requires=get_requirements("requirements.txt"),
     packages=find_packages()
 )
